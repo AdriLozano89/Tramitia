@@ -1,4 +1,3 @@
-streamlit
-streamlit-calendar
+streamlit>=1.30.0
 pandas
-openpyxl
+pillow
